@@ -22,6 +22,10 @@ public class SaleMinDTO {
 		date = entity.getDate();
 	}
 
+
+
+
+
 	public Long getId() {
 		return id;
 	}
